@@ -11,7 +11,7 @@ Desencriptar Texto: Revierte el proceso de encriptación, devolviendo el texto o
 Validación de Entrada: El programa solo acepta letras minúsculas, y no permite el uso de caracteres especiales ni mayúsculas.
 Interfaz de Usuario Intuitiva: Una interfaz simple y fácil de usar para encriptar y desencriptar textos rápidamente.
 
-## Tecnologías Utilizadas:
+## Tecnologías Utilizadas
 
 ### JavaScript: Lenguaje principal utilizado para la lógica de encriptación y desencriptación.
 ### HTML: Estructura básica de la interfaz de usuario.
@@ -20,7 +20,8 @@ Interfaz de Usuario Intuitiva: Una interfaz simple y fácil de usar para encript
 ## Cómo Ejecutar el Proyecto:
 Clona este repositorio en tu máquina local:
 https://github.com/Angiegm2/Encriptador-de-texto.git
-### Abre el archivo index.html en tu navegador preferido.
+
+#### Abre el archivo index.html en tu navegador preferido.
 Introduce el texto que deseas encriptar o desencriptar y presiona el botón correspondiente.
 
 ## Contribuciones
